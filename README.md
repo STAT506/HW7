@@ -38,4 +38,4 @@ Report your results.
 
 ### Q3. (2 pts)
 
-How do you suppose the results would change and n was 10 or 10,000?
+How do you suppose the results for Q2 would change if n was 10 or 10,000?
